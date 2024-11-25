@@ -12,7 +12,13 @@
         "id": 1,
         "username": "lindsey",
         "comment": "love the content",
-        "replies": []
+        "replies": [
+          {
+            "id": 1,
+            "username": "",
+            "reply": "me too"
+          }
+        ]
       }
     ]
   },
@@ -42,5 +48,22 @@
     "author": "testuser3",
     "date": "2024-11-03T21:55:20.598Z",
     "comments": []
+  },
+  {
+    "id": 4,
+    "title": "This is my third blog",
+    "content": "this is the content",
+    "shortDescription": "this is the short description of the blog",
+    "image": "43cb02863debfe166d75cecca6afe2f7",
+    "author": "testuser30",
+    "date": "2024-11-05T11:27:03.755Z",
+    "comments": [
+      {
+        "id": 1,
+        "username": "test30",
+        "comment": "i like this",
+        "replies": []
+      }
+    ]
   }
 ]
